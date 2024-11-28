@@ -1,0 +1,3 @@
+Kason: 1
+Anna: 0
+Anna: 1
